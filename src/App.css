@@ -1,0 +1,35 @@
+* {
+    padding: 3px;
+}
+
+body {
+    margin: 0px;
+    color: white;
+    background-color: rgb(39, 39, 39);
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.margin-top {
+    margin-top: 50px;
+}
+
+.margin-5 {
+    margin: 5px;
+}
+
+.padding-5 {
+    padding: 5px;
+}
